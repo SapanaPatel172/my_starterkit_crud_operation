@@ -1,7 +1,7 @@
 <x-default-layout>
 
     @section('title')
-    Products
+    Product
     @endsection
 
     @section('breadcrumbs')
